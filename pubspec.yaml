@@ -18,7 +18,10 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-  - assets/img/landscapeNight.jpg 
+  - assets/img/landscape1.jpg
+  - assets/img/landscape2.JPG
+  - assets/img/landscape3.jpg
+  - assets/img/landscape4.JPG
   - assets/img/person1.png
   - assets/img/person2.png
   - assets/img/person3.png
